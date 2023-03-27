@@ -1,0 +1,1 @@
+train กับ test dataset ถูกเอาไป format อีกทีตอน train เป็น dfdate1.csv กับ train_HJ.csv
